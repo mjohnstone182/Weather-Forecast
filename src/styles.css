@@ -1,0 +1,22 @@
+.container {
+  background: linear-gradient(
+    109.6deg,
+    rgb(2, 119, 165) 11.2%,
+    rgb(102, 51, 153) 91.1%
+  );
+  margin: 0% auto;
+  padding-top: 5px;
+}
+.col-6 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+div {
+  color: beige;
+  font-family: "Nanum Gothic", sans-serif;
+}
+.col {
+  font-weight: bold;
+  font-size: 30px;
+}
